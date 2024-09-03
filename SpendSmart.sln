@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpendSmart", "SpendSmart\SpendSmart.csproj", "{CAB99190-6030-4717-BE60-6C6D1F479883}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAB99190-6030-4717-BE60-6C6D1F479883}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAB99190-6030-4717-BE60-6C6D1F479883}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAB99190-6030-4717-BE60-6C6D1F479883}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAB99190-6030-4717-BE60-6C6D1F479883}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51438204-85DB-4182-9312-E471237966C4}
+	EndGlobalSection
+EndGlobal
